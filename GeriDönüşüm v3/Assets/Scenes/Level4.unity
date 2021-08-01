@@ -1372,7 +1372,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 9, y: -234.00012}
+  m_AnchoredPosition: {x: -12, y: -234.00012}
   m_SizeDelta: {x: 343.82837, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &619071351
@@ -1671,14 +1671,14 @@ RectTransform:
   m_GameObject: {fileID: 665892989}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.0313958, y: 1.0026125, z: 1.0313958}
+  m_LocalScale: {x: 1.2956394, y: 1.0017414, z: 1.2956394}
   m_Children: []
   m_Father: {fileID: 1088398360}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -376, y: 771}
+  m_AnchoredPosition: {x: -376, y: 779}
   m_SizeDelta: {x: 204.38998, y: 264.59854}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &665892991
@@ -1700,7 +1700,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e00a487744bb19d4e9a0a8492312f15c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: dc6a5a23317675e44a6063333564b02f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2527,7 +2527,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1088398360
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5220,7 +5220,7 @@ GameObject:
   - component: {fileID: 123327166}
   m_Layer: 0
   m_Name: Abeslang
-  m_TagString: Cube
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8527,7 +8527,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!222 &6521329124965684438
 CanvasRenderer:
   m_ObjectHideFlags: 0
